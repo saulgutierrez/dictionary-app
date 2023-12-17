@@ -10,5 +10,6 @@ Technologies used:
 <li> CSS </li>
 <li> Vanilla JS </li>
 
-![image](https://github.com/saulgutierrez/dictionary-app/assets/62368834/3572b530-5202-475c-9756-affb5f79e9f8)
+![image](https://github.com/saulgutierrez/dictionary-app/assets/62368834/96a4f6a8-3014-4362-9f69-d828c3a8d778)
+
 
