@@ -9,3 +9,6 @@ Technologies used:
 <li> HTML </li>
 <li> CSS </li>
 <li> Vanilla JS </li>
+
+![image](https://github.com/saulgutierrez/dictionary-app/assets/62368834/3572b530-5202-475c-9756-affb5f79e9f8)
+
